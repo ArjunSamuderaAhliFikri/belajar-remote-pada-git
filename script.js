@@ -36,3 +36,4 @@ const newUser = {
 
 pushPost(newUser, getUser);
 // getUser();
+console.log('Hello World');
