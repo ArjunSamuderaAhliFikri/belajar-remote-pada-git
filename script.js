@@ -10,6 +10,10 @@ const user = [
     {
         name: "nafa",
         age: 17
+    },
+    {
+        name: "Anjayani",
+        age: 1999
     }
 ];
 function pushPost(element, callback) {
