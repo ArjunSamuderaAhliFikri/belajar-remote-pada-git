@@ -10,6 +10,10 @@ const user = [
     {
         name: "nafa",
         age: 17
+    },
+    {
+        name: "hello world",
+        age: 11
     }
 ];
 function pushPost(element, callback) {
@@ -32,3 +36,4 @@ const newUser = {
 
 pushPost(newUser, getUser);
 // getUser();
+console.log('Hello World');
